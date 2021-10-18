@@ -48,3 +48,6 @@ label{
     cursor: pointer;
     margin-bottom: 20px;
 }
+::placeholder{
+    color: black;
+}
