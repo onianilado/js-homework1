@@ -8,6 +8,7 @@
 .title{
     font-size: 24px;
     font-weight: bold;
+    color: black;
 }
 .image{
     max-width: 650px;
@@ -73,14 +74,14 @@ ul{
     display: flex;
     padding: 30px 50px;
 }
-a{
+.nav-li{
     color: chocolate;
     transition: all 0.3s linear;
 }
 li{
     margin-right: 15px;
 }
-a:hover{
+.nav-li:hover{
     background-color: chocolate;
     color: white;
 }
